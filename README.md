@@ -2,65 +2,56 @@
 
 
 
-# [Project Name] 🎯
+# [Selfie Wiper] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Electrotops]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Abirami Sankar] - [scms school of engineering and technology]
+- Member 2: [Devika N S] - [scms school of engineering and technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A smart selfie-camera wiper that uses a servo-driven pendulum mechanism to gently sweep across the camera lens, removing water and dust for a clearer view.
+With every button press, the wiper performs a controlled cleaning cycle while the OLED displays the achieved clarity level from 80% to 99%.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[A dirty or wet selfie camera can ruin the perfect selfie, forcing users to manually wipe the lens every time.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[“Why use your finger when your camera can have its own tiny windshield wiper?” 🤣]
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
 - [List main components]
+1. ESP32 Dev Board
+2. SG90 Servo Motor
+3. 0.96-inch OLED Display (SSD1306 I²C)
+4. Push Button
+5. 10 kΩ Resistor
+6. Breadboard
+7. Jumper Wires
+8. 5V External Power Supply
+9. Rubber/Silicone Wiper Strip
 - [List specifications]
+1. The ESP32 acts as the main controller.
+2. The push button activates the wiper.
+3. The servo motor moves the wiper across the camera.
+4. The OLED displays the current status and funny messages.
+5. The servo returns to its original position after wiping.
+
 - [List tools required]
+ 1. Arduino IDE – Programming and uploading code to ESP32
+ 2. Git – Version control and project management
+ 3. GitHub – Online repository for storing and sharing the project
+ 4. Breadboard – Prototyping the circuit
+ 5. Jumper Wires – Making circuit connections
+ 6. Soldering Iron – Permanent connections 
+ 7. Wire Cutter/Stripper – Preparing wires
 
 ### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 For Hardware:
 
 # Schematic & Circuit
