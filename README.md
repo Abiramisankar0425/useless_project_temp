@@ -63,15 +63,13 @@ Why use your finger when your camera can have its own tiny windshield wiper?
 # Build Photos
 ![Components Used](components.png)
 
-
+![build](build2.png)
 ![final build](build.png)
-![Final](Add photo of final product here)
-*Explain the final build*
-
+The project is essentially a ridiculously over-engineered manual selfie-camera windshield wiper: instead of simply wiping the lens, you press the button multiple times to tell the ESP32 how aggressively it should "clean" it, while the OLED proudly reports an increasingly impressive 80% → 99% clarity.
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/drive/u/1/folders/1ndzFR-gETCY5620Y9F9OwOYA3qWYOJI-]
+
 
 # Additional Demos
 [Add any extra demo materials/links]
