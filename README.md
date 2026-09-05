@@ -52,10 +52,9 @@ With every button press, the wiper performs a controlled cleaning cycle while th
  7. Wire Cutter/Stripper – Preparing wires
 
 ### Implementation
-For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+![Circuit Diagram](circuit_diagram.png)
 *Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
