@@ -61,8 +61,8 @@ With every button press, the wiper performs a controlled cleaning cycle while th
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components Used](components.png)
+
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
