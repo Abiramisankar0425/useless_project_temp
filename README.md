@@ -54,7 +54,7 @@ Why use your finger when your camera can have its own tiny windshield wiper?
 ### Implementation
 
 # Schematic & Circuit
-!Circuit Diagram(circuit_diagram.png)
+![Circuit daigram](circuit_diagram.png)
 *Add caption explaining connections*
 
 !Schematic(Add your schematic diagram here)
