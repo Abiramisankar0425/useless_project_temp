@@ -79,9 +79,8 @@ With every button press, the wiper performs a controlled cleaning cycle while th
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Abirami Sankar]: [code and documentation]
+- [Devika N S]: [hardware connectios]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
