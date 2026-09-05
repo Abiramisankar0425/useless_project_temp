@@ -64,9 +64,7 @@ Why use your finger when your camera can have its own tiny windshield wiper?
 ![Components Used](components.png)
 
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
+![final build](build.png)
 ![Final](Add photo of final product here)
 *Explain the final build*
 
