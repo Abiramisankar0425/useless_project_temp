@@ -18,10 +18,10 @@ A smart selfie-camera wiper that uses a servo-driven pendulum mechanism to gentl
 With every button press, the wiper performs a controlled cleaning cycle while the OLED displays the achieved clarity level from 80% to 99%.
 
 ### The Problem (that doesn't exist)
-A dirty or wet selfie camera can ruin the perfect selfie, forcing users to manually wipe the lens every time.
+A dirty or wet selfie camera can ruin the perfect selfie, forcing users to manually wipe the lens every time, our product can be a fun and creative alternative for that.
 
 ### The Solution (that nobody asked for)
-Why use your finger when your camera can have its own tiny windshield wiper?
+Why use your finger or get your clothes dirty when your camera can have its own tiny windshield wiper?
 
 ## Technical Details
 ### Technologies/Components Used
@@ -30,11 +30,10 @@ Why use your finger when your camera can have its own tiny windshield wiper?
 2. SG90 Servo Motor
 3. 0.96-inch OLED Display (SSD1306 I²C)
 4. Push Button
-5. 10 kΩ Resistor
-6. Breadboard
-7. Jumper Wires
-8. 5V External Power Supply
-9. Rubber/Silicone Wiper Strip
+5. Breadboard
+6. Jumper Wires
+7. 5V External Power Supply
+8. microfiber Wiper Strip
 - List specifications
 1. The ESP32 acts as the main controller.
 2. The push button activates the wiper.
