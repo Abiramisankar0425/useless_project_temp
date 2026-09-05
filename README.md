@@ -2,7 +2,7 @@
 
 
 
-# [Selfie Wiper] 🎯
+# Selfie Wiper
 
 
 ## Basic Details
@@ -10,22 +10,22 @@
 
 
 ### Team Members
-- Member 1: [Abirami Sankar] - [scms school of engineering and technology]
-- Member 2: [Devika N S] - [scms school of engineering and technology]
+- Member 1: Abirami Sankar - scms school of engineering and technology
+- Member 2: Devika N S     - scms school of engineering and technology
 
 ### Project Description
-[A smart selfie-camera wiper that uses a servo-driven pendulum mechanism to gently sweep across the camera lens, removing water and dust for a clearer view.
-With every button press, the wiper performs a controlled cleaning cycle while the OLED displays the achieved clarity level from 80% to 99%.]
+A smart selfie-camera wiper that uses a servo-driven pendulum mechanism to gently sweep across the camera lens, removing water and dust for a clearer view.
+With every button press, the wiper performs a controlled cleaning cycle while the OLED displays the achieved clarity level from 80% to 99%.
 
 ### The Problem (that doesn't exist)
-[A dirty or wet selfie camera can ruin the perfect selfie, forcing users to manually wipe the lens every time.]
+A dirty or wet selfie camera can ruin the perfect selfie, forcing users to manually wipe the lens every time.
 
 ### The Solution (that nobody asked for)
-[“Why use your finger when your camera can have its own tiny windshield wiper?” 🤣]
+Why use your finger when your camera can have its own tiny windshield wiper?
 
 ## Technical Details
 ### Technologies/Components Used
-- [List main components]
+- List main components
 1. ESP32 Dev Board
 2. SG90 Servo Motor
 3. 0.96-inch OLED Display (SSD1306 I²C)
@@ -35,14 +35,14 @@ With every button press, the wiper performs a controlled cleaning cycle while th
 7. Jumper Wires
 8. 5V External Power Supply
 9. Rubber/Silicone Wiper Strip
-- [List specifications]
+- List specifications
 1. The ESP32 acts as the main controller.
 2. The push button activates the wiper.
 3. The servo motor moves the wiper across the camera.
 4. The OLED displays the current status and funny messages.
 5. The servo returns to its original position after wiping.
 
-- [List tools required]
+- List tools required
  1. Arduino IDE – Programming and uploading code to ESP32
  2. Git – Version control and project management
  3. GitHub – Online repository for storing and sharing the project
@@ -54,10 +54,10 @@ With every button press, the wiper performs a controlled cleaning cycle while th
 ### Implementation
 
 # Schematic & Circuit
-![Circuit Diagram](circuit_diagram.png)
+!Circuit Diagram(circuit_diagram.png)
 *Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
+!Schematic(Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
@@ -79,8 +79,8 @@ With every button press, the wiper performs a controlled cleaning cycle while th
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Abirami Sankar]: [code and documentation]
-- [Devika N S]: [hardware connectios]
+- [Abirami Sankar]: [code,documentation,problem solving]
+- [Devika N S]: [hardware connectios,problem solving]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
