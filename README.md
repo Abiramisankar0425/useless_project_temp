@@ -52,7 +52,8 @@ Why use your finger or get your clothes dirty when your camera can have its own 
 
 ### Implementation
  Circuit
-![Circuit daigram](circuit_diagram.png)
+![Circuit daigram]<img width="1137" height="638" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/686cc7e4-5e05-419e-8b7f-0e7528f8267a" />
+
 *Add caption explaining connections*
 
 !Schematic(Add your schematic diagram here)
