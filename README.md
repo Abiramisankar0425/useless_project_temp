@@ -59,7 +59,7 @@ Why use your finger or get your clothes dirty when your camera can have its own 
  4. remember all gnd should be connect common.
 
 # Build Photos
-![Components Used](components.png)
+![Components Used]<img width="1536" height="1024" alt="ChatGPT Image Sep 6, 2026, 06_56_38 AM" src="https://github.com/user-attachments/assets/424d08f8-f924-470e-bb2a-c79e1721c80a" />
 
 ![build](build2.png)
 ![final build](build.png)
