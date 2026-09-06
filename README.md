@@ -53,11 +53,10 @@ Why use your finger or get your clothes dirty when your camera can have its own 
 ### Implementation
  Circuit
 ![Circuit daigram]<img width="1137" height="638" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/686cc7e4-5e05-419e-8b7f-0e7528f8267a" />
-
-*Add caption explaining connections*
-
-!Schematic(Add your schematic diagram here)
-*Add caption explaining the schematic*
+ 1. first connect the esp32 on breadboard and connect pushbutton to gpio 4 and the other leg to gnd
+ 2. connect OLED motor (SCL=22,SDL=21),and connect vcc and gnd
+ 3. power servo via arduino(5V) and connect signal pin to gpio 18
+ 4. remember all gnd should be connect common.
 
 # Build Photos
 ![Components Used](components.png)
