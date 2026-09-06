@@ -34,6 +34,7 @@ Why use your finger or get your clothes dirty when your camera can have its own 
 6. Jumper Wires
 7. 5V External Power Supply
 8. microfiber Wiper Strip
+9. arduino uno
 - List specifications
 1. The ESP32 acts as the main controller.
 2. The push button activates the wiper.
