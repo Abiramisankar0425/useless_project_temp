@@ -6,7 +6,7 @@
 
 
 ## Basic Details
-### Team Name: [Electrotops]
+### Team Name: Electrotops
 
 
 ### Team Members
@@ -51,8 +51,7 @@ Why use your finger or get your clothes dirty when your camera can have its own 
  7. Wire Cutter/Stripper – Preparing wires
 
 ### Implementation
-
-# Schematic & Circuit
+ Circuit
 ![Circuit daigram](circuit_diagram.png)
 *Add caption explaining connections*
 
@@ -66,11 +65,11 @@ Why use your finger or get your clothes dirty when your camera can have its own 
 ![final build](build.png)
 The project is essentially a ridiculously over-engineered manual selfie-camera windshield wiper: instead of simply wiping the lens, you press the button multiple times to tell the ESP32 how aggressively it should "clean" it, while the OLED proudly reports an increasingly impressive 80% → 99% clarity.
 ### Project Demo
-# Video
+## Video
 [https://drive.google.com/drive/u/1/folders/1ndzFR-gETCY5620Y9F9OwOYA3qWYOJI-]
 
 
-# Additional Demos
+## Additional Demos
 [https://drive.google.com/drive/u/1/folders/1ndzFR-gETCY5620Y9F9OwOYA3qWYOJI-]
 
 ## Team Contributions
